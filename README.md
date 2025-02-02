@@ -19,5 +19,6 @@ To run the code, ensure you have the following libraries installed:
 - `pandas`
 - `matplotlib`
 
-<img src="https://github.com/spookynavz/Topsis-for-Pretrained-Model/blob/main/Screenshot%202025-02-02%20212220.png" alt="Sample Image" />
 <img src="https://github.com/spookynavz/Topsis-for-Pretrained-Model/blob/main/Screenshot%202025-02-02%20212201.png" alt="Sample Image" />
+
+<img src="https://github.com/spookynavz/Topsis-for-Pretrained-Model/blob/main/Screenshot%202025-02-02%20212220.png" alt="Sample Image" />
